@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TMS.Common", "TMS.Common\TM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TMS.DataAccess", "TMS.DataAccess\TMS.DataAccess.csproj", "{9C83BE9A-F9FF-41E1-879B-113055E7D297}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMS.BusinessLayer", "TMS.BusinessLayer\TMS.BusinessLayer.csproj", "{A92EAE46-423E-4FC5-9F9B-3C8BF5EED024}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TMS.BusinessLayer", "TMS.BusinessLayer\TMS.BusinessLayer.csproj", "{A92EAE46-423E-4FC5-9F9B-3C8BF5EED024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMS.ServiceApp", "TMS.ServiceApp\TMS.ServiceApp.csproj", "{023686E0-7A44-44A6-80BC-D97B571835FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{A92EAE46-423E-4FC5-9F9B-3C8BF5EED024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A92EAE46-423E-4FC5-9F9B-3C8BF5EED024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A92EAE46-423E-4FC5-9F9B-3C8BF5EED024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023686E0-7A44-44A6-80BC-D97B571835FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023686E0-7A44-44A6-80BC-D97B571835FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023686E0-7A44-44A6-80BC-D97B571835FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023686E0-7A44-44A6-80BC-D97B571835FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
